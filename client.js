@@ -1,5 +1,4 @@
 const net = require("net");
-const { setTimeout } = require("timers/promises");
 
 // establishes a connection with the game server
 const connect = function () {
